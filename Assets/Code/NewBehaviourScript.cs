@@ -6,8 +6,11 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
-	}
+        Debug.Log("");
+        Debug.Log("");
+        Debug.Log("");
+        Debug.Log("");
+    }
 	
 	// Update is called once per frame
 	void Update () {
