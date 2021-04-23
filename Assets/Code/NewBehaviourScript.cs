@@ -10,8 +10,11 @@ public class NewBehaviourScript : MonoBehaviour {
         Debug.Log("");
         Debug.Log("");
         Debug.Log("");
+
 		Debug.Log("100");
         Debug.Log("200");
+
+        Debug.Log("func2");
 
     }
 	
