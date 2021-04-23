@@ -6,6 +6,7 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+        Debug.Log("func3");
         Debug.Log("");
         Debug.Log("");
         Debug.Log("");
