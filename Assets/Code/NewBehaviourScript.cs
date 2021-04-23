@@ -10,6 +10,9 @@ public class NewBehaviourScript : MonoBehaviour {
         Debug.Log("");
         Debug.Log("");
         Debug.Log("");
+		Debug.Log("100");
+        Debug.Log("200");
+
     }
 	
 	// Update is called once per frame
